@@ -1,5 +1,5 @@
 # DfnvUtilities
-This is a small library for all sorts of thing, that I will wxpand over time.
+This is a small library for all sorts of thing, that I will expand over time.
 
 ## Features:
 Printer
